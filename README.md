@@ -1,2 +1,3 @@
-# internet-does-not-forget
-(I)nternet Does Not Forget.
+# (I)nternet Does Not Forget
+
+> What does "deeply interesting" mean? It means stuff that teaches you about the world.
